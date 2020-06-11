@@ -1,5 +1,4 @@
 # Python_Client_Server_App_Prototype
-## COMP 6441
 
 A prototype in **Python** that contains a **server** and a **client**.
 Communication takes place over given **IP Address** and **Port number**.
